@@ -1,4 +1,4 @@
-(go to branch and select master branch to see and download files)
+(go to main (branch) and select master branch to see and download files)
 
 Name:- E-commerce Website Objective:- this is use for online businesses and sellers can sell their products and customer can purchase items it is the plateform in which a customer and seller can interact with each other and can communicate
 
